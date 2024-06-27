@@ -8,15 +8,6 @@ Welcome to my project! This repository contains a **from-scratch** implementatio
 - ⚡ **Efficient** matrix multiplication
 - 🔢 **Supports** multiple layers and activation functions
 
-## Quick Start 🚀
-
-1. **Clone** the repository:
-
-    ```bash
-    git clone https://github.com/your-username/forward-propagation-numpy.git
-    cd forward-propagation-numpy
-    ```
-
 ## How It Works 🧩
 
 Here you can see that Neural Network in just a chain of matrix multiplication. 
